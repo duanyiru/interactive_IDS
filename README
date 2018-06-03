@@ -1,0 +1,13 @@
+The interactive firewall is mainly write by libiptc and libpcap.
+
+How to run:
+	$ sudo su
+	# make
+	# ./ids
+
+Use Ctrl + C to stop it.
+
+Require:
+	iptables packet
+	pcap packet
+
